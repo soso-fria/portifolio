@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,17 +11,18 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da SOFIA" class="rounded-circle" width="150" height="150" srcset="">
+        <img src="![image](https://github.com/user-attachments/assets/0a42d6f5-e77f-49eb-9205-f2ea117083e5)
+" alt="avatar da SOFIA" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou a Sofia Gabriela_</p>
         <h1>Eu sou formada na UNESP</h1>
         <p>Sou Engenheira Mecânica, me formei na UNESP, completei meu ensino médio na escola estadual Joaquim Andrade meirelles em 2025, no mesmo ano eu fazi o cursinho preparatótio para o vestibular CasdVest, trabalhei como monitora de matemática e participei de diversas olimpíadas.</p>
         <p>Minhas habilidades
         - Já desenvolvi diversos projetos de automação de automóveis, mecanização de peças e produção de máquinas</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">Torno Mecânico</p>
+            <p class="badge bg-secondary">Microscópio Óptico</p>
+            <p class="badge bg-secondary">Forno Mufla</p>
+            <p class="badge bg-secondary">Fonte de soldagem</p>
         </div>
     </header>
     <main class="container">
@@ -31,9 +32,7 @@
                 <div class="card" style="width: 18rem;">
                     <img src="..." class="card-img-top" alt="...">
                     <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="btn btn-primary">Go somewhere</a>
+
                     </div>
                   </div>
             </div>
