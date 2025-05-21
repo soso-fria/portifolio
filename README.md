@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title> Meu portfólio </title>
+    <title> h1>Meu portfólio </title></h1>
 </head>
 
 <body>
     <header class="container text-center">
         <img src="![image](https://github.com/user-attachments/assets/0a42d6f5-e77f-49eb-9205-f2ea117083e5)
 " alt="avatar da SOFIA" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou a Sofia Gabriela_</p>
+        <p class="lead">Eu sou a Sofia Gabriela</p>
         <h1>Eu sou formada na UNESP</h1>
         <p>Sou Engenheira Mecânica, me formei na UNESP, completei meu ensino médio na escola estadual Joaquim Andrade meirelles em 2025, no mesmo ano eu fazi o cursinho preparatótio para o vestibular CasdVest, trabalhei como monitora de matemática e participei de diversas olimpíadas.</p>
         <p>Minhas habilidades
@@ -30,4 +30,5 @@
         <div [class="row](https://engenharia360.com/projetos-incriveis-de-engenheiras-mecanicas/)">/div
           
 
-</html># portifolio
+</html>#portifolio
+https://engenharia360.com/projetos-incriveis-de-engenheiras-mecanicas/
